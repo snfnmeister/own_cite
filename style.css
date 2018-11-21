@@ -1,0 +1,23 @@
+ul.hr {
+margin: 0;
+padding: 4px;
+}
+ul.hr li {
+display: inline;
+margin-right: 15px;
+border: 1px solid #000;
+padding: 3px;
+font size ="2";
+
+}
+header {
+display: block;
+height: 405px;
+background: url(images/header.png) no-repeat center; }
+footer {
+position: bottom;
+left: 0; bottom: 0;
+padding: 10px;
+background: #d7e4e8";
+color: #fff;
+width: 100%;
